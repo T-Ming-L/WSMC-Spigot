@@ -1,0 +1,8 @@
+name: WSMC
+version: "1.2.0"
+main: com.wsmc.spigot.WSMCPlugin
+api-version: "1.20"
+load: STARTUP
+description: Enable WebSocket support for Minecraft Java via Spigot/Paper (1.20.4+).
+authors: [WSMC Team]
+website: https://github.com/rikka0w0/wsmc
