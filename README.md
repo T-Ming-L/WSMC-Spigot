@@ -144,7 +144,9 @@ A: 增大 `wsmc.maxFramePayloadLength` 配置项的值。
 
 ## 开源协议
 
-MIT License
+GNU General Public License v3.0 (GPL-3.0)
+
+详见 [LICENSE](LICENSE) 文件。
 
 ---
 
