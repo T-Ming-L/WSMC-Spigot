@@ -28,7 +28,7 @@ MC 客户端 ──WebSocket──► WSMC 插件(25566) ──TCP──► loca
 
 ### 下载
 
-从 [Releases](https://github.com/yourname/wsmc-spigot/releases) 下载最新 `wsmc-spigot-x.x.x.jar`。
+从 [Releases](https://github.com/T-Ming-L/wsmc-spigot/releases/latest) 下载最新 `wsmc-spigot-x.x.x.jar`。
 
 ### 自行构建
 
