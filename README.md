@@ -117,7 +117,7 @@ Client → CDN [X-Forwarded-For: 1.2.3.4] → WSMC Plugin(25566)
 
 ## 与 WSMC Mod / Velocity 版对比
 
-|          | WSMC Mod      | WSMC for Velocity | WSMC for Spigot/Paper |
+|          | [WSMC Mod](https://github.com/rikka0w0/wsmc)      | [WSMC for Velocity](https://github.com/T-Ming-L/WSMC-Velocity) | WSMC for Spigot/Paper |
 | -------- | ------------- | ----------------- | --------------------- |
 | 运行位置 | 游戏服务器内  | Velocity 代理     | Spigot/Paper 服务器内 |
 | 适用场景 | 单服 / 无代理 | 群组服 / Velocity | 单服 / 无代理         |
